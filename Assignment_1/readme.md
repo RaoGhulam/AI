@@ -1,4 +1,3 @@
-![CamScanner 02-22-2025 20 56_01](https://github.com/user-attachments/assets/33226973-22c4-4a6c-9aca-d78c051a47b9)
 ![CamScanner 02-22-2025 20 56_1](https://github.com/user-attachments/assets/a917d6e3-c659-4967-9d61-fbd23c3d88ed)
 ![CamScanner 02-22-2025 20 56_2](https://github.com/user-attachments/assets/e42947e7-1065-4fe8-b056-c368b58fc90e)
 ![CamScanner 02-22-2025 20 56_3](https://github.com/user-attachments/assets/2829b7a0-a768-4112-b3c0-28b7cbe6d5d6)
