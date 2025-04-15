@@ -2,7 +2,7 @@ def query(x):
     return -1 * (x - 7) ** 2 + 49
 
 def find_peak(N: int) -> int:
-    x = N // 2  # start at the middle
+    x = N // 2
     while 0 < x < N:
         if query(x) < query(x + 1):
             x += 1
@@ -13,4 +13,4 @@ def find_peak(N: int) -> int:
     return x
 
 N = 14
-print(find_peak(N))  # Output should be 7, since the peak is at x = 7
+print(find_peak(N))
